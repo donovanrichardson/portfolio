@@ -2,8 +2,14 @@ html {
     --color: #7B75BA;
 }
 
+html, body, .div1{
+    height:100%
+}
+
 h1, h2, h3, h4, h5, h6{
     text-align: center;
+    background: inherit;
+    margin: inherit;
 }
 
 header{
@@ -12,7 +18,7 @@ header{
 
 .div1{
     background-color: var(--color);
-    margin:2.5vw
+    margin: 0 2.5vw
 }
 
 div#projects{
@@ -22,4 +28,10 @@ div#projects{
 footer a {
     text-align: center;
     display: block;
+}
+
+a, a > *{
+    background:white;
+    margin: 1em;
+    border-radius: 1em;
 }
