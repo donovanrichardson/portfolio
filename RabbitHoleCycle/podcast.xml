@@ -1,0 +1,39 @@
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+		<atom:link href="https://rabbitholecycle.netlify.app/rabbitholecycle/podcast.xml" rel="self" type="application/rss+xml"/>
+		<title>Rabbit Hole Cycle</title>
+		<link>https://rabbitholecycle.netlify.app/rabbitholecycle/</link>
+		<description>Welcome to the Rabbit Hole Cycle podcast! This is a podcast where we dive into the Wikipedia rabbit hole together. My name is Donovan, and much like Marie Kondo, I love mess, and that&apos;s why I&apos;ll be leading you into the ridiculousness of trending topics on Wikipedia every week! In this first season, I&apos;ll be focusing mostly on the 2020 election in the United States.</description>
+		<managingEditor>rabbitholecycle@gmail.com</managingEditor>
+		<webMaster>rabbitholecycle@gmail.com</webMaster>
+		<language>en-us</language>
+		<copyright>Copyright (C) 2020 Donovan Richardson, except where noted.</copyright>
+		<creativeCommons:license>https://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
+		<pubDate>Tue, 08 Sep 2020, 05:00:00 GMT</pubDate>
+		<lastBuildDate>Tue, 08 Sep 2020 04:21:54 GMT</lastBuildDate>
+		<docs>http://www.rssboard.org/rss-specification</docs>
+		<itunes:author>Donovan Richardson</itunes:author>
+		<itunes:keywords>wikipedia,talk,narration,trivia,trending</itunes:keywords>
+		<itunes:category text="Society &amp; Culture"/>
+		<itunes:image>Rabbit Hole Cycle</itunes:image>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:owner>
+			<itunes:name>Donovan Richardson</itunes:name>
+			<itunes:email>rabbitholecycle@gmail.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>https://res.cloudinary.com/donovanrichardson/image/upload/v1599534498/rhclogo.png</url>
+			<title>Rabbit Hole Cycle</title>
+			<link>https://rabbitholecycle.netlify.app/rabbitholecycle/</link>
+		</image>
+		<item>
+			<title>Trailer: Rabbit Hole Cycle</title>
+			<link>https://donovanrichardson.netlify.app/rabbitholecycle/</link>
+			<description>Welcome to the Rabbit Hole Cycle podcast! This is a podcast where we dive into the Wikipedia rabbit hole together. My name is Donovan, and much like Marie Kondo, I love mess, and that&apos;s why I&apos;ll be leading you into the ridiculousness of trending topics on Wikipedia every week! In this first season, I&apos;ll be focusing mostly on the 2020 election in the United States.</description>
+			<pubDate>Tue, 08 Sep 2020, 05:00:00 GMT</pubDate>
+			<enclosure url="https://rabbitholecycle.s3.us-east-2.amazonaws.com/RabbitHoleCycleTrailer.mp3" length="718807" type="audio/mpeg"/>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>30</itunes:duration>
+		</item>
+	</channel>
+</rss>
