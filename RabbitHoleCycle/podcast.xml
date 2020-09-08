@@ -15,7 +15,7 @@
 		<itunes:author>Donovan Richardson</itunes:author>
 		<itunes:keywords>wikipedia,talk,narration,trivia,trending</itunes:keywords>
 		<itunes:category text="Society &amp; Culture"/>
-		<itunes:image>Rabbit Hole Cycle</itunes:image>
+		<itunes:image>https://res.cloudinary.com/donovanrichardson/image/upload/v1599534498/rhclogo.png</itunes:image>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:owner>
 			<itunes:name>Donovan Richardson</itunes:name>
