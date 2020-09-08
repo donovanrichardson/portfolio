@@ -1,6 +1,6 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 	<channel>
-		<atom:link href="https://rabbitholecycle.netlify.app/rabbitholecycle/podcast.xml" rel="self" type="application/rss+xml"/>
+		<atom:link href="https://donovanrichardson.netlify.app/rabbitholecycle/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>Rabbit Hole Cycle</title>
 		<link>https://rabbitholecycle.netlify.app/rabbitholecycle/</link>
 		<description>Welcome to the Rabbit Hole Cycle podcast! This is a podcast where we dive into the Wikipedia rabbit hole together. My name is Donovan, and much like Marie Kondo, I love mess, and that&apos;s why I&apos;ll be leading you into the ridiculousness of trending topics on Wikipedia every week! In this first season, I&apos;ll be focusing mostly on the 2020 election in the United States.</description>
