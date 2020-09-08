@@ -2,7 +2,7 @@
 	<channel>
 		<atom:link href="https://donovanrichardson.netlify.app/rabbitholecycle/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>Rabbit Hole Cycle</title>
-		<link>https://rabbitholecycle.netlify.app/rabbitholecycle/</link>
+		<link>https://donovanrichardson.netlify.app/rabbitholecycle/</link>
 		<description>Welcome to the Rabbit Hole Cycle podcast! This is a podcast where we dive into the Wikipedia rabbit hole together. My name is Donovan, and much like Marie Kondo, I love mess, and that&apos;s why I&apos;ll be leading you into the ridiculousness of trending topics on Wikipedia every week! In this first season, I&apos;ll be focusing mostly on the 2020 election in the United States.</description>
 		<managingEditor>rabbitholecycle@gmail.com</managingEditor>
 		<webMaster>rabbitholecycle@gmail.com</webMaster>
@@ -15,7 +15,7 @@
 		<itunes:author>Donovan Richardson</itunes:author>
 		<itunes:keywords>wikipedia,talk,narration,trivia,trending</itunes:keywords>
 		<itunes:category text="Society &amp; Culture"/>
-		<itunes:image>https://res.cloudinary.com/donovanrichardson/image/upload/v1599534498/rhclogo.png</itunes:image>
+		<itunes:image href="https://res.cloudinary.com/donovanrichardson/image/upload/v1599534498/rhclogo.png"/>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:owner>
 			<itunes:name>Donovan Richardson</itunes:name>
@@ -24,7 +24,7 @@
 		<image>
 			<url>https://res.cloudinary.com/donovanrichardson/image/upload/v1599534498/rhclogo.png</url>
 			<title>Rabbit Hole Cycle</title>
-			<link>https://rabbitholecycle.netlify.app/rabbitholecycle/</link>
+			<link>https://donovanrichardson.netlify.app/rabbitholecycle/</link>
 		</image>
 		<item>
 			<title>Trailer: Rabbit Hole Cycle</title>
