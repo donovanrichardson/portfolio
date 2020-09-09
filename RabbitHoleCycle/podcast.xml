@@ -1,5 +1,5 @@
 <!--REGEX (?<=\d), (?=\d) -->
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 	<channel>
 		<atom:link href="https://donovanrichardson.netlify.app/rabbitholecycle/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>Rabbit Hole Cycle</title>
@@ -8,7 +8,7 @@
 		<managingEditor>rabbitholecycle@gmail.com (Donovan Richardson)</managingEditor>
 		<webMaster>rabbitholecycle@gmail.com (Donovan Richardson)</webMaster>
 		<language>en-us</language>
-		<copyright>Copyright (C) 2020 Donovan Richardson, except where noted.</copyright>
+		<copyright>Copyright (C) 2020 Donovan Richardson, except where noted. Rabbit, Hole, and Cycle icons by Sophie Ascherl, Laurie Humpfer, and Jose Avila respectively, licensed under CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/. The icons can be found at https://openmoji.org/data/color/svg/1F407.svg, https://openmoji.org/data/color/svg/1F573.svg, https://openmoji.org/data/color/svg/1F504.svg. The cover font is Anton, created by the Anton Project Authors and licensed under the Open Font License 1.1 (https://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web).</copyright>
 		<creativeCommons:license>https://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
 		<pubDate>Tue, 08 Sep 2020 05:00:00 GMT</pubDate>
 		<lastBuildDate>"Tue, 08 Sep 2020 16:43:41 GMT"</lastBuildDate>
@@ -27,6 +27,16 @@
 			<title>Rabbit Hole Cycle</title>
 			<link>https://donovanrichardson.netlify.app/rabbitholecycle/</link>
 		</image>
+		<item>
+			<title>Lauren Boebert - Trending Article No. 1</title>
+			<link>https://donovanrichardson.netlify.app/rabbitholecycle/</link>
+			<content:encoded><![CDATA[<p>On the first episode of the Rabbit Hole Cycle, we peruse the Wikipedia article for <a href="https://en.wikipedia.org/w/index.php?title=Lauren_Boebert&oldid=976649043">Lauren Boebert</a>, a conservative millennial and candidate for the U.S. House of Representatives who defeated an incumbent Republican congressman in what was seen as an upset victory. #SorryNotSorry for mispronouncing her name the whole time. </p><p>Wikipedia editors who contributed the content that I read in this episode (by article):<ul><li> Lauren Boebert<ul><li>Billybob2002</li><li>Charles Shirley</li><li>Devonian Wombat</li><li>EEng</li><li>KidAd</li><li>Mubosghu</li><li>2601:2C6:C080:28D0:F0F9:C435:7543:EC79</li><li>2601:282:802:57B0:15FC:9997:8E84:892D </li><li>47.195.228.141</li><li>96.19.76.109</li></ul></li><li> Rifle, Colorado<ul><li>Buaidh</li><li>Decumanus</li><li>Gilliam</li><li>Jonxwood</li><li>Ram-Man</li></ul></li><li> Rifle Creek<ul><li>Gilliam</li></ul></li></ul></p><p>Content from Wikipedia editors is available under the <a href="https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a></p>]]></content:encoded>
+			<pubDate>Wed, 09 Sep 2020 20:00:00 GMT</pubDate>
+			<enclosure url="https://rabbitholecycle.s3.us-east-2.amazonaws.com/Lauren+Boebert+-+Trending+Article+No.+1.mp3" length="14934644" type="audio/mpeg"/>
+			<guid>https://rabbitholecycle.s3.us-east-2.amazonaws.com/Lauren+Boebert+-+Trending+Article+No.+1.mp3</guid>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:duration>622</itunes:duration>
+		</item>
 		<item>
 			<title>Trailer: Rabbit Hole Cycle</title>
 			<link>https://donovanrichardson.netlify.app/rabbitholecycle/</link>
