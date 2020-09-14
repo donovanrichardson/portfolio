@@ -11,7 +11,7 @@
 		<copyright>Copyright (C) 2020 Donovan Richardson, except where noted. Rabbit, Hole, and Cycle icons by Sophie Ascherl, Laurie Humpfer, and Jose Avila respectively, licensed under CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/. The icons can be found at https://openmoji.org/data/color/svg/1F407.svg, https://openmoji.org/data/color/svg/1F573.svg, https://openmoji.org/data/color/svg/1F504.svg. The cover font is Anton, created by the Anton Project Authors and licensed under the Open Font License 1.1 (https://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web).</copyright>
 		<creativeCommons:license>https://creativecommons.org/licenses/by-sa/3.0/</creativeCommons:license>
 		<pubDate>Tue, 08 Sep 2020 05:00:00 GMT</pubDate>
-		<lastBuildDate>"Tue, 08 Sep 2020 16:43:41 GMT"</lastBuildDate>
+		<lastBuildDate>"Mon, 14 Sep 2020 03:45:18 GMT"</lastBuildDate>
 		<docs>http://www.rssboard.org/rss-specification</docs>
 		<itunes:author>Donovan Richardson</itunes:author>
 		<itunes:keywords>wikipedia,talk,narration,trivia,trending</itunes:keywords>
@@ -27,6 +27,16 @@
 			<title>Rabbit Hole Cycle</title>
 			<link>https://donovanrichardson.netlify.app/rabbitholecycle/</link>
 		</image>
+		<item>
+			<title>Bill de Blasio - Trending Article No. 2</title>
+			<link>https://donovanrichardson.netlify.app/rabbitholecycle/</link>
+			<content:encoded><![CDATA[<p>It's Donovan here bringing you today's topic: the Wikipedia article for <a href="https://en.wikipedia.org/w/index.php?title=Bill_de_Blasio&oldid=977349647">Bill de Blasio</a>, the 109th and current mayor of New York City. His article was trending a bit. It turns out that Bill is not short for William <em>or</em> Billiam. I get a little hung up on de Blasio-hater and seat-flipper Representative <a href="https://www.google.com/search?tbm=isch&q=Max+Rose">Max Rose</a>. I respect your wrong opinion if you don't think that Rep. Rose is hot.</p><p>Wikipedia editors who contributed the content that I read in this episode:<!-- <ul><li>  --><ul><li>Baker7771 </li><li>DavidMCEddy </li><li>Kennethphsu</li><li>Lawrencekhoo </li><li>LivinRealGüd  </li><li>Maximusveritas </li><li>Midnightblueowl </li><li>Richiekim</li><li>Rms125a@hotmail.com</li><li>Rsquire3 </li><li>Ruthfulbarbarity</li><li>SunCrow </li><li>Tktru  </li><li>Wikieditor19920 </li><li>Wukai </li><li>108.41.0.123  </li><li>188.176.129.120</li><li>208.95.51.53</li><li>32.218.46.44 </li><li>68.175.28.169  </li></ul><!-- </li> --></ul></p><p>Text from Wikipedia editors is available under the <a href="https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a></p>]]></content:encoded>
+			<pubDate>Mon, 14 Sep 2020 11:50:00 GMT</pubDate>
+			<enclosure url="https://rabbitholecycle.s3.us-east-2.amazonaws.com/Bill+de+Blasio+-+Trending+Article+No.+2.mp3" length="12595535" type="audio/mpeg"/>
+			<guid>https://rabbitholecycle.s3.us-east-2.amazonaws.com/Bill+de+Blasio+-+Trending+Article+No.+2.mp3</guid>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>525</itunes:duration>
+		</item>
 		<item>
 			<title>Lauren Boebert - Trending Article No. 1</title>
 			<link>https://donovanrichardson.netlify.app/rabbitholecycle/</link>
