@@ -1,5 +1,10 @@
 <!--REGEX (?<=\d), (?=\d) -->
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
 	<channel>
 		<atom:link href="https://donovanrichardson.netlify.app/rabbitholecycle/podcast.xml" rel="self" type="application/rss+xml"/>
 		<title>Rabbit Hole Cycle</title>
@@ -27,6 +32,16 @@
 			<title>Rabbit Hole Cycle</title>
 			<link>https://donovanrichardson.netlify.app/rabbitholecycle/</link>
 		</image>
+		<item>
+			<title>Cal Cunningham - Trending Article No. 4</title>
+			<link>https://donovanrichardson.netlify.app/rabbitholecycle/</link>
+			<content:encoded><![CDATA[<p> Today's trending article is <a href="https://en.wikipedia.org/w/index.php?title=Cal_Cunningham&oldid=981803981">Cal Cunningham</a>, a candidate for US Senate in North Carolina who has recently been involved in a sexting scandal. I also talk about his opponent, the coronavirus, Necco wafers.</p><p>Content from Wikipedia editors is available under the <a href="https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a>. Use the <a href="https://www.mediawiki.org/wiki/Who_Wrote_That%3F">Who Wrote That?</a> extension to see authorship for Wikipedia pages.</p>]]></content:encoded>
+			<pubDate>Mon, 05 Oct 2020 17:30:00 GMT</pubDate>
+			<enclosure url="https://rabbitholecycle.s3.us-east-2.amazonaws.com/Cal+Cunningham+-+Trending+Article+No.+4.mp3" length="38524469" type="audio/mpeg"/>
+			<guid>https://rabbitholecycle.s3.us-east-2.amazonaws.com/Cal+Cunningham+-+Trending+Article+No.+4.mp3</guid>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:duration>1605</itunes:duration>
+		</item>
 		<item>
 			<title>Kanye West: Trending Article No. 3</title>
 			<link>https://donovanrichardson.netlify.app/rabbitholecycle/</link>
